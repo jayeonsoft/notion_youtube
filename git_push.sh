@@ -7,4 +7,3 @@ commit_message="Auto commit at $(date +'%Y-%m-%d %H:%M:%S')"
 git commit -m "$commit_message"
 
 git push
-
