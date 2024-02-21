@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-cd /Users/kyuchonsong/9.test/notion/youtube-list/screenshot/images
+cd /Users/kyuchonsong/9.test/notion/youtube-list/screenshots
 git add . > /dev/null
 
 commit_message="Auto commit at $(date +'%Y-%m-%d %H:%M:%S')"
